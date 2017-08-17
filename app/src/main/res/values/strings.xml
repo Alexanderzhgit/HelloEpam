@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloEpam</string>
+    <string name="hello_epam">Hello EPAM!!!</string>
+    <string name="btn_text">НАЖМИ</string>
+</resources>
